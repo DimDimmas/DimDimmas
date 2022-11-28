@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello 👋
+My name is Dimas Arya Kusuma Putra. I'm from Indonesia. Currently work as full-stack programmer and college student. 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimDimmas&layout=compact)](https://github.com/DimDimmas/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DimDimmas)](https://github.com/DimDimmas/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=DimDimmas)
 
 <!--
 **DimDimmas/DimDimmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
